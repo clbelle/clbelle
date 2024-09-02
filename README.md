@@ -10,3 +10,7 @@
 clbelle/clbelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![github-badge](https://github.com/user-attachments/assets/9a2f6189-9292-43b1-b7a6-1c96dc1e9a7a)
+
+![jupyter-token](https://github.com/user-attachments/assets/52cb20a7-4289-4bd8-9589-d4aad1b481e4)
