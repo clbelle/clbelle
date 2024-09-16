@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clbelle
 - 👀 I’m interested in data, Bible studies, and preparedness planning.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on healthcare data analysis.
+- 💞️ I’m looking to collaborate on data analysis.
 - 📫 How to reach me fbv2ub@virginia.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: hmmm
