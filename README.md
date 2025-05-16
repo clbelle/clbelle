@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, Bible studies, and preparedness planning.
 - 🌱 I’m currently a data manager and obtaining a Masters in Data Science.
 - 💞️ I’m looking to collaborate on big data projects.
-- 📫 How to reach me fbv2ub@virginia.edu or see camishabelle.com
+- 📫 How to reach me fbv2ub@virginia.edu or see [camishabelle.com]([https://url.to/target](https://camishabelle.com/))
 - 😄 Pronouns: she/her
 
 <!---
